@@ -8,6 +8,7 @@ export default function Home() {
       <div className={styles.description}>
        <h1>Home Page</h1>
         <Link href="/about">Link To About Page </Link>
+        <Link href="/users">Users</Link>
       </div>
     </main>
   )
